@@ -8,6 +8,8 @@ Encoder Timer Read
 
 ![image](https://github.com/BuildThingsWithPKR/ParkerLinearActuator/assets/157862225/a116a887-50a8-44a0-ab9b-e4614e8d60bf)
 
+Stepper Run
+With Microseconds Delay
 
 ![image](https://github.com/BuildThingsWithPKR/ParkerLinearActuator/assets/157862225/b0cfa635-ba92-4dae-b526-7e09107fa357)
 
